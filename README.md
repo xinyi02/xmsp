@@ -10,7 +10,7 @@
 > 添加名为  **PMODE**、**PKEY**、**USER**、**PWD**、**STEP** 的变量: Settings-->Secrets-->New secret  
 >上方几项变量名请务必全部增加，防止出现不必要的错误。
   
-| Secrets |  格式  |
+| Secrets |  格式  |1
 | -------- | ----- |
 | PMODE |   推送模式,server酱推送:`wx` 新server酱推送:`nwx` tg推送:`tg` 企业微信推送:`qwx` PushPlus推送:`pp` 关闭推送:`off`|
 | PKEY |   推送key,详见PKEY参数解释|
